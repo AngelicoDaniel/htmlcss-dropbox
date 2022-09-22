@@ -157,5 +157,6 @@ h2{
     text-align: center;
     padding: 5px;
     border-bottom: 1px solid lightgray;
-    margin-top: 20px;   
+    margin-top: 20px; 
+    flex-basis: 50%;  
 }
