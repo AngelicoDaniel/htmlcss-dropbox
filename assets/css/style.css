@@ -21,6 +21,7 @@ header{
     width: 100%;
     position: fixed;
     align-items: center;
+    padding: 15px;
 }
 
 header ul{
@@ -28,6 +29,6 @@ header ul{
     list-style-type: none; 
 }
 
-li{
+header li{
     padding: 10px;
 }
