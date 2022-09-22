@@ -57,7 +57,8 @@ header li{
 }
 
 .h-img{
-    width: 70%;
+    width: 80%;
+    /*DEVO SPOSTARE IMMAGINE - probabilmente ticket*/
 }
 header h1{
     font-size: 6rem;
@@ -70,13 +71,3 @@ header h1{
     font-size: 4rem;
 }
 
-.h-img{
-    position: absolute;
-    bottom: 
-}
-
-
-.h-img{
-    position: absolute;
-    bottom: -20px;
-}
