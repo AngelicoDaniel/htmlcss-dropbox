@@ -104,4 +104,18 @@ h2{
 .card{
     flex-basis: 25%;
     margin: auto;
+    margin-top: 30px;
+    border: 2px solid black;
+    height: 40rem;
+}
+
+.user-type{
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+.main-card{
+    padding: 30px;
+    line-height: 1.6rem;
 }
