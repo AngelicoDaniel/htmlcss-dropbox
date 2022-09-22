@@ -8,6 +8,10 @@ header{
     background-color: #B4D0E7;
 }
 
+ul{
+    list-style-type: none;
+}
+
 .flex{
     display: flex;
 }
