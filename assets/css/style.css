@@ -105,8 +105,8 @@ h2{
     flex-basis: 25%;
     margin: auto;
     margin-top: 30px;
-    border: 2px solid black;
-    height: 40rem;
+    border: 1px solid black;
+    height: 43.5rem;
 }
 
 .user-type{
@@ -118,4 +118,37 @@ h2{
 .main-card{
     padding: 30px;
     line-height: 1.6rem;
+}
+
+.pagamenti{
+    font-weight: bolder;
+}
+
+.vantaggi{
+    margin: 5px 0px;
+    padding: 5px;
+}
+
+.left-line{
+    border: 1px solid lightgray;
+    width: 4rem;
+    margin: 5px;
+}
+
+.buy-now{
+    color: blue;
+    text-decoration: underline;
+}
+
+.punti-salienti{
+    margin: 20px 0px;
+}
+
+.fa-check{
+    color: #0061FF;
+    padding: 5px 0px;
+    margin-right: 5px;
+}
+.oppure{
+    margin-top: 10px;
 }
