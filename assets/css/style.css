@@ -30,5 +30,11 @@ header ul{
 }
 
 header li{
+    padding: 1rem;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
     padding: 10px;
 }
