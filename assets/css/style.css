@@ -50,19 +50,24 @@ header li{
 
 
 .h-text{
-    flex-basis: 50%;
-    padding: 30px;
+    flex-basis: 40%;
+    padding: 40px;
     line-height: 25px;
     margin: 30px 0px;
 }
 
 .h-img{
-    width: 80%;
-    /*DEVO SPOSTARE IMMAGINE - probabilmente ticket*/
+    position: absolute;
+    width: 75%;
+    /*immagine spostata ma ho tanti dubbi - probabilmente ticket*/
 }
 header h1{
     font-size: 6rem;
     padding: 100px 0;
+}
+
+header p{
+    padding: 15px 0;
 }
 
 .arrow{
