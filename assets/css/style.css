@@ -307,3 +307,15 @@ a{
     padding: 20px;
 }
 
+.designit .logo-line{
+        border: 1px solid gray;
+        width: 4rem;
+        margin: 20px 0;
+    
+    }
+
+.designit p{
+    padding: 20px 0;
+    
+}
+
