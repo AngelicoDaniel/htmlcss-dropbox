@@ -318,7 +318,7 @@ a{
         width: 4rem;
         margin: 20px 0;
     
-    }
+}
 
 .designit p{
     padding: 20px 0;
@@ -330,9 +330,9 @@ a{
 }
 
 .b-container{
-    width: 60%;
+    width: 80%;
     margin: auto;
-    height: 20rem;
+    height: 25rem;
 }
 
 .f-text{
@@ -358,4 +358,18 @@ a{
 
 footer{
     background-color: black;
+}
+
+footer ul{
+    color: white;
+    flex-basis: 20%;
+    margin: 30px;
+    line-height: 30px
+    
+}
+
+.f-title{
+    font-size: 1.4rem;
+    font-weight: bolder;
+    margin: 10px 0;
 }
