@@ -379,5 +379,10 @@ footer ul{
 }
 
 .language{
-    color: white;
+    color:gray;
+    margin: 40px 0;
 }
+.footer-line{
+    border: 1px solid gray;
+    width: 8rem;
+    margin: 40px 0;
