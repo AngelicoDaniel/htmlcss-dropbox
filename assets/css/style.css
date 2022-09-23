@@ -373,3 +373,11 @@ footer ul{
     font-weight: bolder;
     margin: 10px 0;
 }
+
+.btn-none{
+    border: none;
+}
+
+.language{
+    color: white;
+}
