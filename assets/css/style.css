@@ -343,7 +343,9 @@ a{
     font-weight: bold;
     font-size: medium;
     padding: 20px 0;
-    flex-basis: 50%;
 }
 
+.difference{
+    align-items: center;
+}
 
