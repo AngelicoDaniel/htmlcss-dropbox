@@ -258,6 +258,9 @@ a{
 
 .logo{
     flex-basis: 50%;
+    filter: invert(100%);
+      
+  
 }
 
 .brand-section img{
