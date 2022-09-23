@@ -92,7 +92,7 @@ header p{
 }
 
 h2{
-   font-size: 3rem; 
+   font-size: 2.5rem; 
    padding: 15px 0px;
 }
 
@@ -107,6 +107,7 @@ h2{
     margin-top: 30px;
     border: 1px solid black;
     height: 43.5rem;
+
 }
 
 .user-type{
@@ -118,6 +119,7 @@ h2{
 .main-card{
     padding: 30px;
     line-height: 1.6rem;
+    text-indent: -10px;
 }
 
 .pagamenti{
@@ -156,9 +158,19 @@ h2{
 .building{
     text-align: center;
     padding: 5px;
-    border-bottom: 1px solid lightgray;
+    border: 1px solid lightgray;
     margin-top: 20px; 
     flex-basis: 50%;
+}
+.building-2{
+    border: 1px solid lightgrey;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.building-2 p{
+    margin-top: 25px;
 }
 
 
