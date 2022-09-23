@@ -235,10 +235,13 @@ a{
 .brand{
     flex-basis: 33.3%;
     border: 1px solid black;
+    height: 400px;
+    
 }
 
 .designit{
     flex-basis: 33.3%;
+    background-color: lightgray;
 }
 
 .wrap{
@@ -252,3 +255,36 @@ a{
 .brand-section img{
     width: 50%;
 }
+
+.desi-box{
+    background-color: lightgreen;
+}
+
+.asu-box{
+    background-color: brown
+}
+
+.uf-box{
+    background-color: lightblue;
+}
+
+.topps-box{
+    background-color: orangered;
+}
+
+.wbr-box{
+    background-color: red;
+}
+
+.hearst-box{
+    background-color: #B4D0E7;
+}
+
+.lonley-box{
+    background-color: blue;
+}
+
+.clear-box{
+    background-color: yellow;
+}
+
