@@ -228,8 +228,13 @@ a{
     margin: 30px 0;
 }
 
+.brand-section{
+    margin-top: 50px;
+}
+
 .brand{
     flex-basis: 33.3%;
+    border: 1px solid black;
 }
 
 .designit{
@@ -242,4 +247,8 @@ a{
 
 .logo{
     flex-basis: 50%;
+}
+
+.brand-section img{
+    width: 50%;
 }
