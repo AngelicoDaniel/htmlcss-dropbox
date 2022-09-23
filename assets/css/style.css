@@ -198,7 +198,6 @@ h2{
 
 .partner-btn{
     border: 1px solid black;
-    color: black;
     background-color: white;
     padding: 15px;
 }
@@ -339,3 +338,12 @@ a{
     font-weight: bolder;
     color: brown;
 }
+
+.faq h4{
+    font-weight: bold;
+    font-size: medium;
+    padding: 20px 0;
+    flex-basis: 50%;
+}
+
+
