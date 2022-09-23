@@ -319,3 +319,16 @@ a{
     
 }
 
+.lightblue{
+    background-color: lightblue;
+}
+
+.b-container{
+    width: 60%;
+    margin: auto;
+    height: 200px;
+}
+
+.f-text{
+    flex-basis: 50%;
+}
