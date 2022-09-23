@@ -42,7 +42,8 @@ header li{
     background-color: #0061FF;
     color: white;
     padding: 10px;
-    margin: 0;
+    border: none;
+ 
 }
 
 .h-container{
@@ -96,7 +97,7 @@ h2{
    padding: 15px 0px;
 }
 
-.buisness{
+.business{
     padding-top: 30px 0;
     font-size: 1.4rem;
 }
@@ -164,13 +165,58 @@ h2{
 }
 .building-2{
     border: 1px solid lightgrey;
-    height: 100px;
-    padding: 10px;
+    height: 150px;
+    padding: 15px;
     margin-bottom: 20px;
 }
 
 .building-2 p{
-    margin-top: 25px;
+    margin-top: 55px;
+}
+
+.partner-img{
+    flex-basis: 58%;
+}
+
+.partner-img img{
+    width: 100%;
 }
 
 
+.partner-text{
+    flex-basis: 40%;
+    padding: 50px 0;
+    line-height: 1.4rem;
+}
+
+.partner-text p{
+    padding: 50px 0;
+}
+
+.partner-btn{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    padding: 15px;
+}
+
+.business-card{
+    flex-basis: 30%;
+}
+
+.business-img img{
+    width: 100%;
+}
+
+.business-columns{
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.business-text{
+    padding: 20px 0;
+}
+
+.business-text p{
+    margin-top: 20px;
+}
