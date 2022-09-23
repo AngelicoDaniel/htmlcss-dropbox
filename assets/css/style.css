@@ -235,3 +235,11 @@ a{
 .designit{
     flex-basis: 33.3%;
 }
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.logo{
+    flex-basis: 50%;
+}
