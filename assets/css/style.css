@@ -234,14 +234,16 @@ a{
 
 .brand{
     flex-basis: 33.3%;
-    border: 1px solid black;
-    height: 400px;
+    border: 1px solid black; 
     
 }
 
 .designit{
     flex-basis: 33.3%;
     background-color: lightgray;
+    height: 600px;
+    padding: 20px;
+
 }
 
 .wrap{
@@ -258,33 +260,50 @@ a{
 
 .desi-box{
     background-color: lightgreen;
+    height: 300px;
+    padding: 20px;
 }
 
 .asu-box{
-    background-color: brown
+    background-color: brown;
+    height: 300px;
+    padding: 20px;
 }
 
 .uf-box{
     background-color: lightblue;
+    height: 300px;
+    padding: 20px;
+    
 }
 
 .topps-box{
     background-color: orangered;
+    height: 300px;
+    padding: 20px;
 }
 
 .wbr-box{
     background-color: red;
+    height: 300px;
+    padding: 20px;
 }
 
 .hearst-box{
     background-color: #B4D0E7;
+    height: 300px;
+    padding: 20px;
 }
 
 .lonley-box{
     background-color: blue;
+    height: 300px;
+    padding: 20px;
 }
 
 .clear-box{
     background-color: yellow;
+    height: 300px;
+    padding: 20px;
 }
 
