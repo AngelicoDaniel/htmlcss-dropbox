@@ -28,7 +28,7 @@ ul{
     width: 100%;
     position: fixed;
     align-items: center;
-    padding: 10px;
+    
     z-index: 1;
 }
 
@@ -410,4 +410,6 @@ footer ul{
 
 header li:hover{
     text-decoration: underline;
+    opacity: 0.5;
+    background-color: #B4D0E7;
   }
