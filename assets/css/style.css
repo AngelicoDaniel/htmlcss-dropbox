@@ -405,3 +405,6 @@ footer ul{
     float: right;
   }
 
+  header li:hover{
+    text-decoration: underline;
+  }
