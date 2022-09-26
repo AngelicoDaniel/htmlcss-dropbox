@@ -234,21 +234,22 @@ a{
     margin: 30px 0;
 }
 
+
 .brand-section{
     margin-top: 50px;
 }
 
 .brand{
-    flex-basis: 33.3%;
-    border: 1px solid black; 
-    
+    flex-basis: calc(100vw / 3);    
+}
+
+.box-loghi{
+    height: calc(100vw / 3);
 }
 
 .designit{
-    flex-basis: 33.3%;
+    flex-basis: calc(100vw / 3);
     background-color: lightgray;
-    height: 600px;
-    padding: 20px;
 
 }
 
@@ -257,80 +258,29 @@ a{
 }
 
 .logo{
+    display: flex;
     flex-basis: 50%;
-    filter: invert(100%);
-      
-  
+    height: 50%;
+    justify-content: center;
 }
 
-.brand-section img{
+.box-loghi img{
     width: 50%;
 }
 
-.desi-box{
-    background-color: lightgreen;
-    height: 300px;
-    padding: 20px;
+.brand-center{
+    background-color: lightgray;
+    height: calc(100vw / 3);
 }
 
-.asu-box{
-    background-color: brown;
-    height: 300px;
-    padding: 20px;
-}
 
-.uf-box{
-    background-color: lightblue;
-    height: 300px;
-    padding: 20px;
-    
-}
 
-.topps-box{
-    background-color: orangered;
-    height: 300px;
-    padding: 20px;
-}
 
-.wbr-box{
-    background-color: red;
-    height: 300px;
-    padding: 20px;
-}
-
-.hearst-box{
-    background-color: #B4D0E7;
-    height: 300px;
-    padding: 20px;
-}
-
-.lonley-box{
-    background-color: blue;
-    height: 300px;
-    padding: 20px;
-}
-
-.clear-box{
-    background-color: yellow;
-    height: 300px;
-    padding: 20px;
-}
-
-.designit .logo-line{
-        border: 1px solid gray;
-        width: 4rem;
-        margin: 20px 0;
-    
-}
-
-.designit p{
-    padding: 20px 0;
-    
-}
 
 .lightblue{
     background-color: lightblue;
 }
+
 
 .b-container{
     width: 80%;
