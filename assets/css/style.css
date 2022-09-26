@@ -403,11 +403,11 @@ footer ul{
     margin: auto;
   }
       
-  .myDIV:hover + .hide {
+.myDIV:hover + .hide {
     display: block;
     float: right;
   }
 
-  header li:hover{
+header li:hover{
     text-decoration: underline;
   }
