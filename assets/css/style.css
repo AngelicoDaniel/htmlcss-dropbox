@@ -250,7 +250,7 @@ a{
 
 .designit{
     flex-basis: calc(100vw / 3);
-    background-color: lightgray;
+    background-color: #F5F5F5
 }
 
 .wrap{
@@ -306,18 +306,21 @@ a{
 }
 
 .brand-center{
-    background-color: lightgray;
+    background-color: #F5F5F5;
     height: calc(100vw / 3);
+    padding: 50px;
 }
 
 
 .desi-line{
-        border: 1px solid black;
-        width: 4rem;
-        margin: 5px;
+        border: 1px solid lightgray;
+        width: 8rem;
+        margin: 35px 0;
     }
 
-
+.brand-center p{
+    padding: 35px 0;
+}
 
 
 .lightblue{
