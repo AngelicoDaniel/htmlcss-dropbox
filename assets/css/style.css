@@ -409,7 +409,10 @@ footer ul{
   }
 
 header li:hover{
-    text-decoration: underline;
     opacity: 0.5;
     background-color: #B4D0E7;
   }
+
+footer li:hover{
+    text-decoration: underline;
+}
