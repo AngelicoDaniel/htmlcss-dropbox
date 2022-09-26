@@ -345,13 +345,14 @@ a{
 .f-text div{
     font-size: 2rem;
     font-weight: bolder;
-    color: brown;
+    color: #61082B;
 }
 
 .faq h4{
     font-weight: bold;
     font-size: medium;
     padding: 20px 0;
+    margin: 20px 0;
 }
 
 .difference{
@@ -389,3 +390,11 @@ footer ul{
     width: 8rem;
     margin: 40px 0;
 }
+
+.hide {
+    display: none;
+  }
+      
+  .myDIV:hover + .hide {
+    display: block;
+  }
