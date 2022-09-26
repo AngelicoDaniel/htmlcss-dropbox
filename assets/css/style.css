@@ -267,7 +267,9 @@ a{
 .box-loghi img{
     width: 50%;
     height: 50%;
-    filter: invert(1)    
+    filter: invert(1); 
+    margin: auto;   
+
 }
 
 .desi-box{
