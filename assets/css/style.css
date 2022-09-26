@@ -352,11 +352,13 @@ a{
     font-weight: bold;
     font-size: medium;
     padding: 20px 0;
-    margin: 20px 0;
+    margin: 40px 0;
 }
 
 .difference{
     align-items: center;
+    position: relative;
+    
 }
 
 footer{
@@ -393,8 +395,13 @@ footer ul{
 
 .hide {
     display: none;
+    position: absolute;
+    top: 100px;
+    margin: auto;
   }
       
   .myDIV:hover + .hide {
     display: block;
+    float: right;
   }
+
